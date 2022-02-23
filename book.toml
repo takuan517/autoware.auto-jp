@@ -1,0 +1,6 @@
+[book]
+authors = ["takuan517"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Autoware.Auto-JP"
